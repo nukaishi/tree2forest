@@ -1,0 +1,5 @@
+{
+  "name": "Three.js Stylized Tree",
+  "description": "A 3D recreation of a stylized flat-design tree using Three.js with custom shaders for gradients and noise texturing, matching the provided visual reference.",
+  "requestFramePermissions": []
+}
